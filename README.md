@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api?username=westlinkin&count_private=true&show_icons=true&theme=yeblu&hide=contribs,prs)
+
+
+
+<a href="https://stackoverflow.com/users/1650683/wesley"><img src="https://stackoverflow.com/users/flair/1650683.png" width="208" height="58" alt="profile for Wesley at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Wesley at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+👉 [Twitter](https://twitter.com/westlinkin)
+
 <!--
 **westlinkin/westlinkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
